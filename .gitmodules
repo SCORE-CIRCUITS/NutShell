@@ -1,4 +1,4 @@
 [submodule "difftest"]
 	path = difftest
-	url = https://github.com/OpenXiangShan/difftest.git
-
+	url = https://github.com/SCORE-CIRCUITS/difftest.git
+	branch = score-v1.0
